@@ -31,9 +31,16 @@ nav ul li a.active {
     color:rgb(0, 174, 255);
 }
 
+.contact form{
+    display: flex;
+    flex-direction: column:
+    gap: 10px;
+}
+
 footer {
     background-color: black;
     color: chocolate;
     text-align: center;
     padding: 5px, 0;
+
 }
